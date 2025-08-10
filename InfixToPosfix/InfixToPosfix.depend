@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1754824974 source:c:\users\masrafi siam\desktop\lfprac\infixtoposfix\stacktype.cpp
+	<iostream>
+	"stacktype.h"
+
+1754824974 c:\users\masrafi siam\desktop\lfprac\infixtoposfix\stacktype.h
+
+1754830538 source:c:\users\masrafi siam\desktop\lfprac\infixtoposfix\main.cpp
+	<iostream>
+	"stacktype.cpp"
+
+1754824974 c:\users\masrafi siam\desktop\lfprac\infixtoposfix\stacktype.cpp
+	<iostream>
+	"stacktype.h"
+
